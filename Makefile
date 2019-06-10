@@ -1,5 +1,5 @@
 obj-m := assoofs.o
-
+ 
 all: ko mkassoofs
 
 ko:

@@ -2,7 +2,7 @@
 #define ASSOOFS_DEFAULT_BLOCK_SIZE 4096
 #define ASSOOFS_FILENAME_MAXLEN 255
 #define ASSOOFS_START_INO 10
-
+  
 /* Reserved inodes for super block, inodestore and datablock */
 #define ASSOOFS_RESERVED_INODES 3 
 
